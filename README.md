@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="table.html">Table</a></li>
+    <li><a href="media.html">Media</a></li>
+    <title>Table</title>
+    <link rel="stylesheet" href="table.css">
+    </head>
+    <div id="nav">
+    <ul>
+    <li><a href="./table.html"
+   
+    </ul>
+    </div>
+    <body>
+    <!-- <h1>ALT SCHOOL AFRICA</h1> -->
+    <table class="center">
+    <caption>AltSchool Africa Programs</caption>
+    <thead>
+    <tr class="col">
+    <th>School</th>
+    <th colspan="4">Courses</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <th>School Of Engineering</th>
+    <td>Frontend Engineering</td>
+    <td>Backend Engineering</td>
+    <td>Cloud Computing</td>
+    <td>Cyber Security</td>
+    </tr>
+    <tr>
+    <th>School of Data</th>
+    <td>Data Analysis</td>
+    <td>Data Science</td>
+    <td colspan="2">Data Engineering</td>
+    </tr>
+    
+    <tr>
+    <th>School of Product</th>
+    <td>Product Design</td>
+    <td>Product Marketing</td>
+    <td colspan="2">Product Managent</td>
+    
+    
+    </tr>
+    
+    <tr>
+    <th>School of Busniess</th>
+    <td>Digital Marketing</td>
+    <td colspan="3">High-Impact Selling</td>
+    
+    </tr>
+    <tr>
+    <th>School of Creative</th>
+    <td>Navigating the Music </td>
+    <td colspan="3">Content Mastery </td>
+    
+    
+    </tr>
+    </tbody>
+    
+    
+    </table>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="table.html">Table</a></li>
+    <li><a href="media.html">Media</a></li>
+    <!-- Embed audio in html -->
+     <audio src="./media/audio/orchestra-cinematic-epic-suspense-303539.mp3" controls></audio>
+ <!-- Embed video in html -->
+  <video src="./media/video/leap.mp4" controls></video>
+  <!-- Display an image -->
+   <img src="./media/images/image courage.jpg" alt="Alt text" width="200" height="200"/>
+   <!-- Display an image -->
+    <img src="./media/images/image3.avif" alt="Alt text" width="200" height="200"/>
+
+</body>
+</html>
